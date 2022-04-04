@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ramvegiraju/Desktop/personalProjects/mlflow-serving/mlruns/0/fe0e7188052343db9e6026f41018be07/artifacts
+end_time: 1649099018450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fe0e7188052343db9e6026f41018be07
+run_uuid: fe0e7188052343db9e6026f41018be07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649099016563
+status: 3
+tags: []
+user_id: ramvegiraju
